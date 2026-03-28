@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "オーバード(Acoustic ver.)",
+  "base_artist": "鷹嶺ルイ",
+  "createdAt": "2026-03-28T08:32:12.223268Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オーバード(Acoustic ver.)",
+      "artist": "鷹嶺ルイ",
+      "has_synced": false,
+      "path": "select/01_オーバード(Acoustic_ver.)_鷹嶺ルイ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オーバード(Acoustic ver.)",
+      "artist": "鷹嶺ルイ",
+      "has_synced": false,
+      "path": "select/pl_01_オーバード(Acoustic_ver.)_鷹嶺ルイ.txt"
+    }
+  ]
+}
